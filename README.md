@@ -1,7 +1,7 @@
 # ✨ MacOS/Linux Dotfiles Setup
 
-Welcome to my personal dotfiles repo! This setup is designed for a clean and comfy terminal workflow on macOS, especially with **Neovim**, **Tmux**, **Zsh**, and the gorgeous **Ghostty** terminal.  
-Perfect for developers who want speed, vibes, and a touch of ✨ aesthetic ✨.
+Welcome to my personal dotfiles repo! This setup is designed for a clean and comfy terminal workflow on macOS/Linux, especially with **Neovim**, **Tmux**, **Zsh**, and  **Ghostty** terminal.  
+
 
 ---
 
@@ -40,7 +40,7 @@ The setup script installs:
 1. **Clone This Repo**
 
 ```bash
-git clone https://github.com/your-username/dotfiles ~/.dotfiles
+git clone https://github.com/Aneeshie/dotfiles ~/.dotfiles
 cd ~/.dotfiles
 ```
 
