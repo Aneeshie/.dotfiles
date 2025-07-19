@@ -73,6 +73,7 @@ main() {
   install_ghostty
   install_pkg zsh
   install_pkg fzf
+  install_pkg tmux
   install_pkg rust
   install_pkg go
   install_pkg python
@@ -86,4 +87,3 @@ main() {
 }
 
 main
-
