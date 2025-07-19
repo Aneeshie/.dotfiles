@@ -1,16 +1,16 @@
 #font-family = Iosevka Nerd Font
-# font-family = SFMono Nerd Font 
+# font-family = SFMono Nerd Font
 font-size = 20
 theme = GruvboxDarkHard
 shell-integration-features = no-cursor,sudo,no-title
 cursor-style = block
 adjust-cell-height = 35%
 # background-opacity = 0.96
-
+macos-option-as-alt = left
 mouse-hide-while-typing = true
 mouse-scroll-multiplier = 2
 
-window-padding-balance = true 
+window-padding-balance = true
 window-save-state = always
 macos-titlebar-style=transparent
 window-colorspace = "display-p3"
@@ -23,7 +23,7 @@ keybind = cmd+s>x=close_surface
 
 keybind = cmd+s>n=new_window
 
-# tabs 
+# tabs
 keybind = cmd+s>c=new_tab
 keybind = cmd+s>shift+l=next_tab
 keybind = cmd+s>shift+h=previous_tab
