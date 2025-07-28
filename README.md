@@ -1,4 +1,4 @@
-# ✨ MacOS/Linux Dotfiles Setup
+# ✨ MacOS Dotfiles Setup
 
 Welcome to my personal dotfiles repo! This setup is designed for a clean and comfy terminal workflow on macOS/Linux, especially with **Neovim**, **Tmux**, **Zsh**, and  **Ghostty** terminal.  
 
