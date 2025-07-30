@@ -51,5 +51,11 @@ chmod +x install.sh
 ./install.sh
 ```
 
+3. **setup the fuzzy finder**
+```bash
+cd ~/.local/share/nvim/lazy/telescope-fzf-native.nvim
+make
+```
+
 
 
